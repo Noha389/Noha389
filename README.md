@@ -1,4 +1,6 @@
-### こんにちは皆さん 👋
+### Hi 👋, I'm Noha389 👋
+
+I'm a novice programmer. I mainly make sites and develop apps!
 
 <!--
 **Noha389/Noha389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
